@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "84c5d2437348bbf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dc471103a0be986",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SeguridadEnElSoftware.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f78dc859a5317699",
+    "type": "split",
+    "children": [
+      {
+        "id": "49f07290acbdaf81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95d810c04048489",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc16d3607738a585",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c2d1077fd044c42",
+    "type": "split",
+    "children": [
+      {
+        "id": "1814ee9a18df3e80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca403a1bed8da797",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SeguridadEnElSoftware.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1dc471103a0be986",
+  "lastOpenFiles": [
+    "SeguridadEnElSoftware.md",
+    "VulnerabilidadesDelSoftware.md",
+    "SoftwareSeguro.md"
+  ]
+}
