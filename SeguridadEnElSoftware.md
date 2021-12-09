@@ -14,8 +14,8 @@ Sin embargo no podemos asegurar que un software sea 100 por ciento seguro. Para 
 El problema de poder tener un software seguro radica en que este esta expuesto a un sin número de uusarios con distinas intenciones. En el software que esta en línea es mucho peor, ya que cualquier persona puede tener acceso al mismo. 
 
 
-* Vulnerabilidades y su clasificación 
-* Propiedades software seguro
+* Vulnerabilidades y su clasificación [[VulnerabilidadesDelSoftware]]
+* Propiedades software seguro [[SoftwareSeguro]]
 
 ### Principales causas de la aparición de vulnerabilidades
 
@@ -34,3 +34,14 @@ El problema de poder tener un software seguro radica en que este esta expuesto a
 * Fechas límites de entrega que no se pueden cambiar y muy apresuradas
 * No revisar las tolerancias a los errores 
 * No actualizar las aplicacioens 
+
+### Fases de amenaza o ataques
+
+Las aplicaciones son atacadas o amenazadas en todas las partedes del ciclo de vida del desarrollo del software
+
+* Desarrollo 
+* Distribución e instalación
+* Operación
+* Mantenimiento o sostenimiento 
+
+Es bueno pensar desde los requerimientos en la seguridad.  
