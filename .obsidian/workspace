@@ -7,8 +7,12 @@
         "id": "39ac58489c76c05b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Scrum/Agile.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scrum/Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +88,8 @@
   },
   "active": "39ac58489c76c05b",
   "lastOpenFiles": [
+    "Scrum/Agile.md",
+    "Scrum/Manifiesto Ágil.md",
     "SeguridadEnElSoftware.md",
     "VulnerabilidadesDelSoftware.md",
     "SoftwareSeguro.md"

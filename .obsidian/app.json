@@ -1,1 +1,8 @@
-{}
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "es-ES"
+  ],
+  "spellcheck": true
+}
