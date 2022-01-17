@@ -48,5 +48,5 @@ las formas mas comunes son:
 | ¿Tienes un proyecto de innovación, investigación o creación de un producto o servicio nuevo, en el que puede haber inestabilidad? |     |     |
 | ¿Necesitas asegurar la posibilidad que el producto/servicio sea consumido lo antes posible?                                       |     |     |
 
-Si tienes más de 4 si, es mejor usar Agile (scrum, kanban, . . . ) para aumentar las posibilidades de finalizar el proyecto de manera exitosa. 
+Si tienes más de 4 si, es mejor usar Agile ([[Scrum]], kanban, . . . ) para aumentar las posibilidades de finalizar el proyecto de manera exitosa. 
 Desarrollada las preguntas por Gerardo Gastón Galarza

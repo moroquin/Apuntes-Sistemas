@@ -4,7 +4,7 @@
 
 Enfocado a entornos vuca. 
 
-EPS proceso de producción de toyota *Producción justo-a-tiempo* creado por Sakichi Toyoda, su hijo Kiichiro y el Taichii Ohno, entre 1946 y 1975. Produce solo lo necesario en el momento justo en la cantidad necesario, Basado en el sistema Pull, Flujo de trabajo y Takt Time. 
+TPS proceso de producción de toyota *Producción justo-a-tiempo* creado por Sakichi Toyoda, su hijo Kiichiro y el Taichii Ohno, entre 1946 y 1975. Produce solo lo necesario en el momento justo en la cantidad necesario, Basado en el sistema Pull, Flujo de trabajo y Takt Time. 
 
 Los clientes reciben el vehículo justo a tiempo sin guardar stock. Triangulo de TPS (Toyota Production System)
 
@@ -43,3 +43,21 @@ mencionan temas enfocado a errores en gestión de proyectos (desperdicios) como 
 ## Manifesto agile (2001)
 
 Firmado en Utah en el 2001. No pensaban algo para una gestión de proyectos, sino eran amigos que tenian mucha experiencia y sentaron bases de buenas prácticas para generar mejores productos para tener mejores formas de trabajar, el enfoque tenia que ser en las personas y no en las herramientas y el producto de las mismas. 
+
+El enfoque en las personas y no tanto en el producto para crear esto, Mejores formas en trabajar resumiendo en 4 valores y 12 principios. Dentro de los firmantes del manifesto agil esta los creadores de scrum (Jeff Sutherland y Ken Shwaber)
+
+
+## Ciencia e investigación 
+
+
+## Lecturas recomendadas
+
+* El arte de la guerra - Sun Tzu
+* On War - Clausewitz
+	* Niebla de la guerra: confusión en las desciciones debido a la ambiguedad de la información a causa de multiples factores 
+	* Fricción de la guerra: el efecto de la realidad en las ideas e intenciones de la guerra 
+* The new product development game - Hardvard Business review 1986
+* El libro de los cinco anillos - tratado de Miyamoto Musashi - 
+	* Usar la misma estrategia a corto y largo plazo 
+* OODA - coronel boyd
+* La guia de scrum - Ken Shwaber & Jeff Sutherland 
