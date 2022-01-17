@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proyectos/Predictivos y adaptativos.md",
+            "file": "Proyectos/Agile/Historia Agile.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Predictivos y adaptativos.md",
+                "file": "Proyectos/Agile/Historia Agile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "39ac58489c76c05b",
   "lastOpenFiles": [
+    "Proyectos/Agile/Historia Agile.md",
     "Proyectos/Predictivos y adaptativos.md",
     "Proyectos/Introducción Proyectos.md",
     "Proyectos/Cono de la incertidumbre.md",
@@ -95,8 +96,7 @@
     "Untitled 1.md",
     "Untitled.md",
     "Proyectos/Ciclo de Deming.md",
-    "Agile/Agile.md",
-    "Agile/Manifiesto Ágil.md",
-    "SeguridadEnElSoftware.md"
+    "Proyectos/Agile/Agile.md",
+    "Proyectos/Agile/Manifiesto Ágil.md"
   ]
 }
