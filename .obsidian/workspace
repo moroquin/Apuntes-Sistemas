@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proyectos/Agile/Scrum/Ciclo scrum.md",
+            "file": "Proyectos/Agile/Scrum/Principios scrum.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Agile/Scrum/Ciclo scrum.md",
+                "file": "Proyectos/Agile/Scrum/Principios scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "39ac58489c76c05b",
   "lastOpenFiles": [
+    "Proyectos/Agile/Scrum/Principios scrum.md",
+    "Proyectos/Agile/Historia Agile.md",
+    "Proyectos/Agile/Manifiesto Ágil.md",
+    "Proyectos/Cono de la incertidumbre.md",
+    "Proyectos/Introducción Proyectos.md",
+    "Proyectos/Predictivos y adaptativos.md",
     "Proyectos/Agile/Scrum/Ciclo scrum.md",
     "Proyectos/Agile/Scrum/Artefactos.md",
-    "Proyectos/Agile/Scrum/Principios scrum.md",
     "Proyectos/Agile/Scrum/Scrum.md",
-    "Proyectos/Ciclo  OODA.md",
-    "Proyectos/Predictivos y adaptativos.md",
-    "Proyectos/Agile/Agile.md",
-    "Proyectos/Introducción Proyectos.md",
-    "Proyectos/Cono de la incertidumbre.md",
-    "Proyectos/Ciclo de Deming.md"
+    "Proyectos/Ciclo  OODA.md"
   ]
 }

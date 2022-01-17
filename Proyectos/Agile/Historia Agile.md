@@ -61,3 +61,5 @@ El enfoque en las personas y no tanto en el producto para crear esto, Mejores fo
 	* Usar la misma estrategia a corto y largo plazo 
 * OODA - coronel boyd
 * La guia de scrum - Ken Shwaber & Jeff Sutherland 
+* Process dynamics, modeling and control - Bobatunde Ogunnaike & Harmon Ray
+	* Empiracal process control: Transparency, inspection and adaptation
