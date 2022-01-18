@@ -16,3 +16,7 @@ Los valores de scrum deben cumplirse, todos y todo el tiempo
  * **Inspección**: revisión continua de artefactos y procesos para ver si estamos progresando en los objetivos y poder re acomodar si fuera necesario. 
  * **Adaptación**: adecuarse a la desviación de los límites previstos cuando esta supera los límites pensados, para no perder la meta que se ha planteado. 
  * **Transparencia**: artefactos visibles y accesibles, eventos abiertos a los miembros. 
+
+
+
+

@@ -7,8 +7,12 @@
         "id": "39ac58489c76c05b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Proyectos/Agile/Scrum/Metas.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Proyectos/Agile/Scrum/Metas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "39ac58489c76c05b",
   "lastOpenFiles": [
+    "Proyectos/Agile/Scrum/Metas.md",
     "Proyectos/Agile/Scrum/Principios scrum.md",
+    "Proyectos/Agile/Scrum/Artefacto/Product Backlog.md",
+    "Proyectos/Agile/Scrum/Scrum.md",
+    "Proyectos/Agile/Scrum/Artefactos.md",
+    "Proyectos/Agile/Scrum/Ciclo scrum.md",
     "Proyectos/Agile/Historia Agile.md",
     "Proyectos/Agile/Manifiesto Ágil.md",
     "Proyectos/Cono de la incertidumbre.md",
-    "Proyectos/Introducción Proyectos.md",
-    "Proyectos/Predictivos y adaptativos.md",
-    "Proyectos/Agile/Scrum/Ciclo scrum.md",
-    "Proyectos/Agile/Scrum/Artefactos.md",
-    "Proyectos/Agile/Scrum/Scrum.md",
-    "Proyectos/Ciclo  OODA.md"
+    "Proyectos/Introducción Proyectos.md"
   ]
 }
