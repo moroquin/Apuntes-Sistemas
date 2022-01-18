@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proyectos/Agile/Scrum/Metas.md",
+            "file": "Proyectos/Agile/Scrum/DOR.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Agile/Scrum/Metas.md",
+                "file": "Proyectos/Agile/Scrum/DOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "39ac58489c76c05b",
   "lastOpenFiles": [
-    "Proyectos/Agile/Scrum/Metas.md",
-    "Proyectos/Agile/Scrum/Principios scrum.md",
-    "Proyectos/Agile/Scrum/Artefacto/Product Backlog.md",
-    "Proyectos/Agile/Scrum/Scrum.md",
-    "Proyectos/Agile/Scrum/Artefactos.md",
+    "Proyectos/Agile/Scrum/DOR.md",
     "Proyectos/Agile/Scrum/Ciclo scrum.md",
-    "Proyectos/Agile/Historia Agile.md",
-    "Proyectos/Agile/Manifiesto Ágil.md",
-    "Proyectos/Cono de la incertidumbre.md",
-    "Proyectos/Introducción Proyectos.md"
+    "Proyectos/Agile/Scrum/Scrum.md",
+    "Proyectos/Agile/Scrum/Artefacto/Incremento.md",
+    "Proyectos/Agile/Scrum/Artefacto/Product Backlog.md",
+    "Proyectos/Agile/Scrum/DOD.md",
+    "Proyectos/Agile/Scrum/Sprint.md",
+    "Proyectos/Agile/Scrum/Artefacto/Sprint Backlog.md",
+    "Proyectos/Agile/Scrum/Metas.md",
+    "Proyectos/Casos de Uso/Estimaciones.md"
   ]
 }

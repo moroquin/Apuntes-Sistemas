@@ -2,6 +2,7 @@
 
 Es un mindset (conjunto de pensamientos, métodos, procedimientos y creencias que dan forma a nuestra mente, determinando cómo nos comportamos  )
 
+[[Historia Agile]]
 
 [[Manifiesto Ágil]]:
 
