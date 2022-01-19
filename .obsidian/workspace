@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proyectos/Agile/Scrum/DOR.md",
-            "mode": "source",
+            "file": "Programacion/Web/CSS/CSS intro.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Agile/Scrum/DOR.md",
+                "file": "Programacion/Web/CSS/CSS intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "39ac58489c76c05b",
   "lastOpenFiles": [
+    "Programacion/Web/CSS/CSS intro.md",
+    "Programacion/JS/React/Introduccion.md",
     "Proyectos/Agile/Scrum/DOR.md",
     "Proyectos/Agile/Scrum/Ciclo scrum.md",
     "Proyectos/Agile/Scrum/Scrum.md",
@@ -95,8 +97,6 @@
     "Proyectos/Agile/Scrum/Artefacto/Product Backlog.md",
     "Proyectos/Agile/Scrum/DOD.md",
     "Proyectos/Agile/Scrum/Sprint.md",
-    "Proyectos/Agile/Scrum/Artefacto/Sprint Backlog.md",
-    "Proyectos/Agile/Scrum/Metas.md",
-    "Proyectos/Casos de Uso/Estimaciones.md"
+    "Proyectos/Agile/Scrum/Artefacto/Sprint Backlog.md"
   ]
 }
