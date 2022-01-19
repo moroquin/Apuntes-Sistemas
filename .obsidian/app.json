@@ -4,5 +4,6 @@
   "spellcheckLanguages": [
     "es-ES"
   ],
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }

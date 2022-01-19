@@ -7,12 +7,8 @@
         "id": "39ac58489c76c05b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programacion/Web/CSS/CSS intro.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Web/CSS/CSS intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +83,15 @@
   },
   "active": "39ac58489c76c05b",
   "lastOpenFiles": [
-    "Programacion/Web/CSS/CSS intro.md",
-    "Programacion/JS/React/Introduccion.md",
-    "Proyectos/Agile/Scrum/DOR.md",
-    "Proyectos/Agile/Scrum/Ciclo scrum.md",
-    "Proyectos/Agile/Scrum/Scrum.md",
-    "Proyectos/Agile/Scrum/Artefacto/Incremento.md",
-    "Proyectos/Agile/Scrum/Artefacto/Product Backlog.md",
-    "Proyectos/Agile/Scrum/DOD.md",
+    "Proyectos/Agile/Scrum/Artefacto/Sprint Backlog.md",
+    "Proyectos/Agile/Scrum/Metas.md",
+    "Proyectos/Agile/Scrum/progreso/Evaluar progreso Scrum.md",
+    "Proyectos/Agile/Scrum/criterios/Criterios de aceptación.md",
     "Proyectos/Agile/Scrum/Sprint.md",
-    "Proyectos/Agile/Scrum/Artefacto/Sprint Backlog.md"
+    "Proyectos/Agile/Scrum/Scrum.md",
+    "Proyectos/Agile/Scrum/criterios/DOD.md",
+    "Proyectos/Agile/Scrum/criterios/DOR.md",
+    "Programacion/Web/CSS/CSS intro.md",
+    "Programacion/JS/React/Introduccion.md"
   ]
 }

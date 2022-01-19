@@ -123,3 +123,8 @@ realizar cosas que no aportan valor.
 
 Reuniones que no aportan nada. 
 
+
+
+## [[Evaluar progreso Scrum]]
+
+

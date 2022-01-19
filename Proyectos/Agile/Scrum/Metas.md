@@ -15,7 +15,7 @@ Esta se puede utilizar tanto para el product o sprint goal.
 
 ## Product goal 
 
-El proposito final, es la meta del producto. 
+El propósito final, es la meta del producto. 
 
 Esta **meta del producto** no la cambiamos hasta no haber cumplida una meta anterior.  
 
