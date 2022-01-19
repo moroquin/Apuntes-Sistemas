@@ -16,9 +16,9 @@ Solamente se considera un incremento los puntos, tareas o productos terminados �
 
 Un buen incremento tiene las siguientes características. 
 
-* Se acerca al product Goal [[Metas]]
+* Se acerca al product Goal [[Metas Scrum]]
 * Debe aportar valor
 * Debe ser funcional
 * DoD es su compromiso 
 
-Este se presenta al final del [[Sprint]] en una ceremonia en especifico. Acá se recibe un feedback por parte del cliente. 
+Este se presenta al final del [[Proyectos/Agile/Scrum/Sprint]] en una ceremonia en especifico. Acá se recibe un feedback por parte del cliente. 

@@ -8,4 +8,6 @@ Los criterios para el DOR lo define el equipo.
 
 Debe estar definida por los que lo van a crear pero deben tener conocimiento en la materia. 
 
-Se da la definición de cuando una tarea del PB esta listo para ser creada. Básicamente es cuando se han solucionadas todas las dudas. 
+Se da la definición de cuando una tarea del PB esta listo para ser creada. Básicamente es cuando se han solucionadas todas las dudas.
+
+PBI que están entendidos y que los desarrolladores saben como realizarlos. 

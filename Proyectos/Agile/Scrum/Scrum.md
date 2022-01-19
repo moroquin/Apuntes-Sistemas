@@ -25,7 +25,7 @@ Es importante recordar que la *guía de scrum* no es una receta son líneas y bu
 
 Revisar los [[Principios scrum]] y el [[Ciclo scrum]]
 
-Otra parte importante es que siempre se busca satisfacer y cumplir los objetivos del cliente [[Metas]].
+Otra parte importante es que siempre se busca satisfacer y cumplir los objetivos del cliente [[Metas Scrum]].
 
 ## es conveniente implementar scrum en x proyecto 
 

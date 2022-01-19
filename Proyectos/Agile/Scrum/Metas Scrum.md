@@ -23,6 +23,13 @@ Algo importante es pensar de manera que el product goal es igual a la suma de lo
 
 ## Sprint goal 
 
+Es la meta del sprint y permite al equipo orientarlo en:
+
+* Qué quiere hacerse: el equipo tiene un significado de que o porque se hace. 
+	* Orienta al equipo 
+	* Da el por qué del Sprint
+	* Ofrece flexibilidad en el alcance
+
  Este se refiere a donde queremos llegar dentro del sprint. Es decir definir los objetivos para este sprint en específico. 
 
 * **Específica(*Specific*)**: no debe ser ambiguo el objetivo 
@@ -40,4 +47,10 @@ Tiene tres características principales
 * Genera impacto en el cliente y en el negocio
 
 *Muchas veces podemos incluir a los stakeholders para definir las metas y así enfocar de una manera adecuada nuestra visión, esto solo es una propuesta.*
+
+### Desarrollar un Sprint goal
+
+Se puede realizar con 
+* Priority Driven: el product owner va a determinar las PBIs más importantes, en base a esto definimos un sprint goal. 
+* Demo Driven: Primero nos centramos a que queremos construir (definimos el sprint goal) y seleccionamos los PBIs que necesitamos para cumplir con el spring goal
 

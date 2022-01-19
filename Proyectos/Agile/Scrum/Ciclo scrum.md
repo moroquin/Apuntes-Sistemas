@@ -13,7 +13,7 @@ Para el equipo (scrum team), cada rol tiene una función pero jerarquicamente no
 
 ### 5 eventos 
 
-* **Sprint**: ciclo iterativo e incremental, duración permanente y estable. Permite desarrollar una velocidad estimada del equipo. 
+* **[[Sprint]]**: ciclo iterativo e incremental, duración permanente y estable. Permite desarrollar una velocidad estimada del equipo. 
 	* **Plainning**: al inicio del sprint, planeación dentro del sprint. Se tiene una lista de tareas (product backlog)
 	* **Daily**: reunión diaria, 
 	* **Review**: al final del sprint, es donde se entrega a los stakeholders, el producto mínimo viable, (MVP), para tener un feedback 
