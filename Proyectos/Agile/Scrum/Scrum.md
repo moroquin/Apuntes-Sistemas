@@ -36,12 +36,13 @@ Scrum esta conformado por
 	* **[[Product Owner]]**
 	* **[[Scrum Developers]]**
 * **Roles externos**: no forman parte del scrum team
-	* **Stakeholders** interesados
+	* **[[StakeHolders Scrum]]** interesados
 	* **Shareholders** accionistas
 	* **Stockholders** accionistas
- 
 
 *Si el scrum master y el product owner tienen mucho background técnico puede volverse autoritario.*
+
+
 
 ## Reglas generales de Scrum 
 

@@ -2,6 +2,8 @@
 
 En entornos VUCA lo que ha ocurrido nos puede ayudar a predecir que es lo que puede suceder. Es importante que el gráfico se adapte al equipo. 
 
+>*Dime como me mides, e intentare como mentirte.* Por eso es importante la transparencia y no son mecanismos de control sino de seguimiento. 
+
 ## Sprint BurnDown
 
 ![Sprint BurnDown](progresoscrum-burndown.png)

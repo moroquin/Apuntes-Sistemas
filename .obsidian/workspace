@@ -6,10 +6,11 @@
       {
         "id": "39ac58489c76c05b",
         "type": "leaf",
+        "dimension": 62.17331499312242,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Proyectos/Agile/Scrum/Scrum.md",
+            "file": "Proyectos/Productos/MVP.md",
             "mode": "source",
             "source": false
           }
@@ -18,6 +19,7 @@
       {
         "id": "20e852e388e9d8b6",
         "type": "leaf",
+        "dimension": 37.82668500687758,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proyectos/Agile/Scrum/Roles/Product Owner.md",
+                "file": "Proyectos/Productos/MVP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,25 +93,33 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "6d17494c28bb4328",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 216,
-    "collapsed": true
+    "width": 100
   },
-  "active": "20e852e388e9d8b6",
+  "active": "39ac58489c76c05b",
   "lastOpenFiles": [
+    "Proyectos/Productos/MVP.md",
+    "Proyectos/Productos/Buen producto potencial.md",
     "Proyectos/Agile/Scrum/Roles/Product Owner.md",
-    "Proyectos/Agile/Scrum/criterios/DOR.md",
-    "Proyectos/Agile/Scrum/criterios/DOD.md",
-    "Proyectos/Agile/Scrum/criterios/Criterios de aceptación.md",
+    "Proyectos/Herramientas varias/Crear vision producto.md",
+    "Proyectos/Agile/Scrum/Roles/StakeHolders Scrum.md",
+    "Proyectos/Agile/Scrum/Principios scrum.md",
     "Proyectos/Agile/Scrum/Scrum.md",
-    "Proyectos/Agile/Scrum/Roles/Scrum Team.md",
-    "Proyectos/Agile/Scrum/Roles/Scrum Developers.md",
-    "Proyectos/Agile/Scrum/Roles/Scrum Master.md",
-    "Proyectos/Agile/Scrum/Artefacto/Incremento.md",
-    "Proyectos/Agile/Scrum/Sprint.md"
+    "Proyectos/Casos de Uso/Estimaciones.md",
+    "Proyectos/Agile/Agile.md",
+    "Proyectos/Agile/Scrum/Metricas/Evaluar progreso Scrum.md"
   ]
 }

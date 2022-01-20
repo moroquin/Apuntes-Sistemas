@@ -1,6 +1,6 @@
 # Product Owner
 
-La persona que esta encargada de guiar sobre que se va a construir. 
+La persona que esta encargada de guiar sobre que se va a construir. Debe ser el guía y estar pendiente a los cambios del mercado o de los clientes. 
 
 * Visión a largo plazo sobre el proyecto. 
 * Dueño total de que se va construir
@@ -33,3 +33,16 @@ Debe:
 * Ordenado permanentemente 
 * Optimizado para aumentar el valor creado
 * Asegurarse que los PBI sean claros 
+
+
+## Visión del producto 
+
+Un product owner por equipo. (Multiples PO bajo un chief Product Owner TPO expertos en ux, Marketing, Negocio, etc . . .)
+
+![Vision del producto](./PO-visionProducto.png)
+
+*Esta jerarquia de Épica, Historia de usuario, tareas es una buena práctica, no obligatoria. *
+
+Para crear la visión del producto -> [[Crear vision producto]]
+
+Es importante tomar en cuenta crear un [[Buen producto potencial]]
