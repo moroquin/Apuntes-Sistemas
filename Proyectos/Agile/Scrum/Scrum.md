@@ -33,7 +33,7 @@ Scrum esta conformado por
 
 * **[[Scrum Team]]**: debe estar formado por 10 personas o menos, no hay títulos, no tiene jerarquías, sin sub equipos, multidisciplinario, auto organizado, autónomo y empoderado. 
 	* **[[Scrum Master]]**
-	* **Product Owner**
+	* **[[Product Owner]]**
 	* **[[Scrum Developers]]**
 * **Roles externos**: no forman parte del scrum team
 	* **Stakeholders** interesados
@@ -43,7 +43,11 @@ Scrum esta conformado por
 
 *Si el scrum master y el product owner tienen mucho background técnico puede volverse autoritario.*
 
+## Reglas generales de Scrum 
 
+1. El timeboxing no se puede variar 
+2. El sprint es inviolable 
+3. El alcance es variable
 
 ## es conveniente implementar scrum en x proyecto 
 
