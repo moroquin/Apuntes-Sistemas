@@ -27,6 +27,24 @@ Revisar los [[Principios scrum]] y el [[Ciclo scrum]]
 
 Otra parte importante es que siempre se busca satisfacer y cumplir los objetivos del cliente [[Metas Scrum]].
 
+## Equipo de Scrum
+
+Scrum esta conformado por 
+
+* **Scrum Team**: debe estar formado por 10 personas o menos, no hay títulos, no tiene jerarquías, sin sub equipos, multidisciplinario, auto organizado, autónomo y empoderado. 
+	* **[[Scrum Master]]**
+	* **Product Owner**
+	* **Desarolladores**
+* **Roles externos**: no forman parte del scrum team
+	* **Stakeholders** interesados
+	* **Shareholders** accionistas
+	* **Stockholders** accionistas
+ 
+
+*Si el scrum master y el product owner tienen mucho background técnico puede volverse autoritario.*
+
+
+
 ## es conveniente implementar scrum en x proyecto 
 
 Para esto puede servir la guia que esta en [[Predictivos y adaptativos]]  donde define que tipo de proyecto es el óptimo. 

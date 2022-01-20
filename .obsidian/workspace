@@ -7,8 +7,24 @@
         "id": "39ac58489c76c05b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Proyectos/Agile/Scrum/Roles/Scrum Master.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "20e852e388e9d8b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Proyectos/Agile/Scrum/Scrum.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306
   },
   "right": {
     "id": "6c2d1077fd044c42",
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Proyectos/Agile/Scrum/Roles/Scrum Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,19 +96,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216,
+    "collapsed": true
   },
   "active": "39ac58489c76c05b",
   "lastOpenFiles": [
+    "Proyectos/Agile/Scrum/Roles/Scrum Master.md",
+    "Proyectos/Agile/Scrum/Scrum.md",
+    "Proyectos/Agile/Scrum/Artefacto/Incremento.md",
     "Proyectos/Agile/Scrum/Sprint.md",
     "Proyectos/Agile/Scrum/Eventos/Sprint.md",
     "Proyectos/Agile/Agile.md",
     "Proyectos/Agile/Scrum/Metricas/Evaluar progreso Scrum.md",
     "Proyectos/Agile/Scrum/Eventos/Planning.md",
     "Proyectos/Agile/Scrum/Eventos/Sprint Retrospective.md",
-    "Proyectos/Herramientas varias/Barco de vela.md",
-    "Proyectos/Agile/Scrum/Eventos/Eventos Ceremonias Scrum.md",
-    "Proyectos/Agile/Scrum/Eventos/Sprint Review.md",
-    "Proyectos/Agile/Scrum/Eventos/Daily Scrum.md"
+    "Proyectos/Herramientas varias/Barco de vela.md"
   ]
 }

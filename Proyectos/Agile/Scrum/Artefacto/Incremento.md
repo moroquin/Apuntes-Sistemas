@@ -21,4 +21,4 @@ Un buen incremento tiene las siguientes características.
 * Debe ser funcional
 * DoD es su compromiso 
 
-Este se presenta al final del [[Proyectos/Agile/Scrum/Sprint]] en una ceremonia en especifico. Acá se recibe un feedback por parte del cliente. 
+Este se presenta al final del [[Sprint]] en una ceremonia en especifico. Acá se recibe un feedback por parte del cliente. 
