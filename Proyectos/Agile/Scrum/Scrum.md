@@ -31,10 +31,10 @@ Otra parte importante es que siempre se busca satisfacer y cumplir los objetivos
 
 Scrum esta conformado por 
 
-* **Scrum Team**: debe estar formado por 10 personas o menos, no hay títulos, no tiene jerarquías, sin sub equipos, multidisciplinario, auto organizado, autónomo y empoderado. 
+* **[[Scrum Team]]**: debe estar formado por 10 personas o menos, no hay títulos, no tiene jerarquías, sin sub equipos, multidisciplinario, auto organizado, autónomo y empoderado. 
 	* **[[Scrum Master]]**
 	* **Product Owner**
-	* **Desarolladores**
+	* **[[Scrum Developers]]**
 * **Roles externos**: no forman parte del scrum team
 	* **Stakeholders** interesados
 	* **Shareholders** accionistas

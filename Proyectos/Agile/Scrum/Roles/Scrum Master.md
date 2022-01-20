@@ -31,6 +31,8 @@ Trabajo del día a día
 * Lograr efectividad del equipo (eficiencia + eficacia)
 * Ser agente de cambio, mantener mentalidad disruptiva e innovadora
 * Remover impedimentos y proteger al equipo 
+* Facilitar la correcta implementación de Scrum 
+* Resolver los problemas sutiles. 
 
 
 
