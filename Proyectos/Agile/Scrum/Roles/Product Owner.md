@@ -46,3 +46,35 @@ Un product owner por equipo. (Multiples PO bajo un chief Product Owner TPO exper
 Para crear la visión del producto -> [[Crear vision producto]]
 
 Es importante tomar en cuenta crear un [[Buen producto potencial]]
+
+
+## Release Plan 
+
+> Vision clara -> Visión dividida en objetivos y funcionalidades -> Release Burndown -> Roadmap
+
+*Visión dividida debe estar priorizada y ordenada de acuerdo a criterios en conjunto, importante **Si todo es urgente, nada es urgente***
+
+
+Para el release brundown chart es importante tener un tiempo pesimista, con unos 2 ó 3 sprints de holgura. 
+
+
+
+![Release plan](./PO-releaseplan.png)
+
+Mientras más lejos estemos de la finalización del producto menos certeras serán nuestras estimaciones, mientras más cerca estemos de la finalización más certeras serán nuestras estimaciones. 
+
+
+## Roadmap
+
+podemos hacerlo en dos enfoques
+
+* Ciclos de tiempo
+* Porcentaje de entregas
+
+Vamos a decir que después de 4 sprint vamos a entregar un hito, (mvp), despues de 5 sprints vamos a entregar otro hito. ver Epicas user story mapping [[Epicas]].
+
+Es el ciclo del uso de una persona. 
+
+**Release map** 
+
+
