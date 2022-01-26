@@ -22,9 +22,9 @@ Características
 
 Donde vamos a desplegar nuestras aplicaciones: 
 
-* Nube pública: aws, [[Azure cloud]], . . .
-* Nube privada: servicio de computación privado 
-* Nube Hibrida: conexión entre nuve publica y privada 
+* Nube pública: [[Intro AWS]], [[Azure cloud]], una infraestructura para todos, cualquiera puede comprarla a un proveedor de nube, *beneficios facíl configuración e implementación, escalabilidad, pago por uso, reduce gastos*
+* Nube privada: servicio de computación privado que se ofrece a ciertos usuarios y se hace en un propio centro de datos. *Beneficios permite que solo ciertos usuarioes se conecten, mayor control de seguridad, medidas de terminos y condiciones son más rigurosos, mejor privacidad de la información*
+* Nube Hibrida: conexión entre nuve publica y privada. Nube privada información sensible de la empresa, en la nube pública lo demás. *Beneficios mejora el rendimiento y desempeño, no se depende de la nube pública, mejor estructura, mejor separación*
 
 **Modelos de servicio**
 
