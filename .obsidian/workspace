@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400
+    "width": 248
   },
   "right": {
     "id": "6c2d1077fd044c42",
@@ -98,14 +98,14 @@
   "active": "39ac58489c76c05b",
   "lastOpenFiles": [
     "Programacion/Web/CSS/CSS intro.md",
+    "Programacion/Web/CSS/Combinators css.md",
+    "Programacion/Web/CSS/Cascading style sheets & specificity.md",
+    "Programacion/Web/CSS/def/css def.md",
     "Programacion/JS/bind pre configured functions.md",
     "linux/terminal comands.md",
     "Untitled 1.md",
     "Programacion/JS/React/src/hooks/CustomHooks.md",
     "Untitled.md",
-    "Programacion/JS/React/Hooks/Create custom hooks.md",
-    "Programacion/JS/React/Hooks/React Hooks.md",
-    "Programacion/java/maven/maven build with dependencies.md",
-    "Programacion/java/Untitled.md"
+    "Programacion/JS/React/Hooks/Create custom hooks.md"
   ]
 }

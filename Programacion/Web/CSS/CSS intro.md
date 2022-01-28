@@ -2,7 +2,32 @@
 
 Cascading style sheets
 
-## cargar código css
+
+## Style html
+
+### Selectors
+
+Use the same code for any selector
+```html
+	<head>
+	...
+		<style>
+			section {
+			background: red;
+			}
+		</style>
+	</head>
+	<body>
+		...
+		<section>
+			<h1>Get the freedom you deserve</h1>
+		</section>
+		...
+	</body>
+```
+
+
+## New file
 
 Los códigos css deben cargarse al inicio del HTML, lo hacemos en el head 
 
@@ -12,6 +37,25 @@ Los códigos css deben cargarse al inicio del HTML, lo hacemos en el head
 	<link href="main.css" type="text/css" rel="stylesheet" />
 </head>
 ```
+
+En el otro archivo
+
+```css
+section {
+	background: red;
+}
+```
+
+### Inline styling
+
+*Not recomended*
+
+```html
+<section style="background: #d39026;">
+	<h1>Get the freedom you deserve</h1>
+</section>
+```
+
 
 
 ## Selectores de css
@@ -42,6 +86,8 @@ css:
 ```css
 #parrafo {
 	color: #fff;
+	color:blue;
+	font-family: Verdana;
 }
 ```
 
@@ -60,6 +106,57 @@ css:
 	color: #fff;
 }
 ```
+
+
+### Selector por atributo
+Aplica a todos los elementos que tengan un atributo no importando quien sea
+```html
+<button disabled>
+	Click
+</button>
+```
+
+```css
+[disabled] {
+	color: red;
+}
+```
+
+### Combinator
+para combinar los selectores, que se encuentran dentro de otro id, y se puede usar aunque no sean hijos directos del elemento
+
+```css
+#product-overview h1{
+	color: white;
+}
+```
+
+
+
+### A todos los elementos 
+
+Aplica a todos los elementos del html
+```css
+* {
+	color:blue;
+	font-family: Verdana;
+}
+```
+
+
+
+## selectors, properties, values
+
+| selectors   | properties       | values  |
+| ----------- | ---------------- | ------- |
+| div         | background-color | red     |
+| .blog-post  | width            | 30%     |
+| #main-title | color            | #fa923f |
+| [disabled]  | margin           | 10px    |
+| *           | display          | block   |
+
+
+
 
 
 
