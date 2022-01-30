@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "39ac58489c76c05b",
+        "id": "0587faafcab9310c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -95,17 +95,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "39ac58489c76c05b",
+  "active": "0587faafcab9310c",
   "lastOpenFiles": [
     "Programacion/Web/CSS/CSS intro.md",
     "Programacion/Web/CSS/Combinators css.md",
+    "Programacion/JS/React/src/hooks/hooks snippets.md",
+    "Programacion/JS/React/src/components/Layout/Header.md",
+    "Programacion/JS/React/src/hooks/CustomHooks.md",
     "Programacion/Web/CSS/Cascading style sheets & specificity.md",
     "Programacion/Web/CSS/def/css def.md",
     "Programacion/JS/bind pre configured functions.md",
     "linux/terminal comands.md",
-    "Untitled 1.md",
-    "Programacion/JS/React/src/hooks/CustomHooks.md",
-    "Untitled.md",
-    "Programacion/JS/React/Hooks/Create custom hooks.md"
+    "Untitled 1.md"
   ]
 }
