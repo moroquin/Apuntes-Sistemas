@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/Web/CSS/Layout/Display css.md",
+            "file": "Programacion/JS/testJS/Jest JS.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 387
   },
   "right": {
     "id": "6c2d1077fd044c42",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/Web/CSS/Layout/Display css.md",
+                "file": "Programacion/JS/testJS/Jest JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "0587faafcab9310c",
   "lastOpenFiles": [
-    "Programacion/Web/CSS/Layout/Display css.md",
-    "Programacion/Web/CSS/Layout/Boxes.md",
-    "Programacion/Web/CSS/CSS intro.md",
-    "Programacion/Web/CSS/Combinators css.md",
-    "Programacion/JS/React/src/hooks/hooks snippets.md",
-    "Programacion/JS/React/src/components/Layout/Header.md",
-    "Programacion/JS/React/src/hooks/CustomHooks.md",
-    "Programacion/Web/CSS/Cascading style sheets & specificity.md",
-    "Programacion/Web/CSS/def/css def.md",
-    "Programacion/JS/bind pre configured functions.md"
+    "Programacion/JS/testJS/Jest JS.md",
+    "Programacion/TDD.md",
+    "Proyectos/Productos/MVP.md",
+    "Proyectos/Productos/Buen producto potencial.md",
+    "Proyectos/Triangulo de Hierro.md",
+    "Proyectos/Introducción Proyectos.md",
+    "Proyectos/Cono de la incertidumbre.md",
+    "Proyectos/Ciclo de Deming.md",
+    "Proyectos/Ciclo  OODA.md",
+    "Programacion/java/Test/Intro Test java.md"
   ]
 }

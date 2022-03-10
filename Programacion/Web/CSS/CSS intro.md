@@ -160,3 +160,21 @@ Aplica a todos los elementos del html
 
 
 
+## Class selectors vrs id selectors
+
+| css class selectors                                                       | CSS id selectors                                               |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| re utilizables, permite seleccionar items solo para propositos de estilos | conectada a un elemento en específico del html. Uno por página |
+| Más utilizado                                                             | Solo si es necesario                                                               |
+
+
+
+## !Important anotation
+
+```css
+div{
+	color: red;
+}
+```
+
+Sobre escribe las reglas anteriores. No es aconsejable. 
