@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/JS/testJS/Jest JS.md",
+            "file": "Programacion/JS/React/React css.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "92ddaed59b5edff5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programacion/JS/React/react instalacion paso a paso.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387
+    "width": 236
   },
   "right": {
     "id": "6c2d1077fd044c42",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/JS/testJS/Jest JS.md",
+                "file": "Programacion/JS/React/React css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +109,15 @@
   },
   "active": "0587faafcab9310c",
   "lastOpenFiles": [
+    "Programacion/JS/React/React css.md",
+    "Programacion/JS/React/src/hooks/hooks snippets.md",
+    "Programacion/JS/React/React css styled components.md",
+    "Programacion/JS/React/react instalacion paso a paso.md",
+    "Programacion/JS/React/Introduccion react.md",
+    "Programacion/Deploy/vercel.md",
+    "Carreer/AIDA.md",
+    "Programacion/JS/React/React router.md",
     "Programacion/JS/testJS/Jest JS.md",
-    "Programacion/TDD.md",
-    "Proyectos/Productos/MVP.md",
-    "Proyectos/Productos/Buen producto potencial.md",
-    "Proyectos/Triangulo de Hierro.md",
-    "Proyectos/Introducción Proyectos.md",
-    "Proyectos/Cono de la incertidumbre.md",
-    "Proyectos/Ciclo de Deming.md",
-    "Proyectos/Ciclo  OODA.md",
-    "Programacion/java/Test/Intro Test java.md"
+    "Programacion/TDD.md"
   ]
 }
