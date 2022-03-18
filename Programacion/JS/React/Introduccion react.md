@@ -1,6 +1,7 @@
 # Introducción
 
-Para crear un proyecto se puede utilizar 
+
+To create a new proyect Para crear un proyecto se puede utilizar 
 
 ```bash
 npx create-react-app prooyect 

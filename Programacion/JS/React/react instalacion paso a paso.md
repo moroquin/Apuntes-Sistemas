@@ -1,21 +1,36 @@
 
-Install 
+in this post we are going to initiate a new react project step by step. The goal is to understand which dependencies we need and how they work together in the react world. 
 
-## Configuración inicial
+## Dependencies 
 
-### Iniciar 
+To work with this mini how to tutorial you need to have installed NodeJs, 
+
+## Initiating
+
+We have to initiate a node project 
 
 ```bash
 npm init
 ```
 
-Creamos nuestro directorio *donde guardaremos el código de nuestra aplicación*
+Now we have an empty project, so we have to create the first structure to our files, for that we have to create a src folder
+
 ```bash
 mkdir src
 ```
- Alli podemos crear un src/index.js para probar el funcionamiento de nuestros scripts, este puede tener un hola mundo. 
 
-### Webpack
+Now we have to create our entry point, to that you have to create a file inside the source folder 
+
+```bash
+touch src/index.js
+```
+
+
+## Bundle the app
+
+Now we have to think about to bundle all the future application. To achieve that we are goint to use webpack. 
+
+
 ```bash
 npm install webpack webpack-cli --save-dev
 ```
