@@ -6,6 +6,9 @@
 
 (**Cloud computing**)Utilizar una red de servidores remotos alojados en internet para almacenar, gestionar y procesar datos, en lugar de un servidor local o un ordenador personal. **Recursos Físico** digital: quet eofrece el cloud computing son digitalizados, es decir que no son de forma física, el usuario adquiere los servicios y tenrá acceso a una infraestructura (Dependiendo de los servicios adquiridos) digital y los manipulará como si los tuviera en físico. *Teoría*: **son servicios de computación virtuales, que se ofrecen en una red**. 
 
+**It's the delivery of computing services over the internet, which is otherwise known as the cloud. These services include servers, storage, databases, networking, software, analytics, and intelligence. Cloud computing offers faster innovation, flexible resources, and economies of scale.** 
+
+
 Características 
 
 * El cliente escoge todo
