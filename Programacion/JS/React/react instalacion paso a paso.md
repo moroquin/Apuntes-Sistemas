@@ -28,14 +28,14 @@ touch src/index.js
 
 ## Bundle the app
 
-Now we have to think about to bundle all the future application. To achieve that we are goint to use webpack. 
+Now we have to think about to bundle all the future application. To achieve that we are goint to use webpack. First we need to install 
 
 
 ```bash
 npm install webpack webpack-cli --save-dev
 ```
 
-Crear el archivo *webpack.config.js*
+Now we have to configure webpack. This tool use a configuration file, it should be in the root directory, and we have to name it "webpack.config.js". Inside of the file we have to write the first configuration. 
 
 ```javascript
 	module.exports ={
@@ -45,7 +45,8 @@ Crear el archivo *webpack.config.js*
 		}
 	}
 ```
- y agregamos en el *package.json* 
+ 
+With the previus file we stablish the initial configuration of the webpack. We can execute the command directly in the terminal but a good practice is to add into a *package.json* the *build* scripts, the part of the scripts in the file should looks like:
 
 ```json
 {
@@ -56,13 +57,14 @@ Crear el archivo *webpack.config.js*
 }
 ```
 
-Con esto tenemos webpack para compilar nuestro código
-
-Ejecutar: 
+With the previus script we should be allow to run the following command: 
 
 ```bash
 npm run build
 ```
+
+With that we are able to  bundle our application.
+
 
 ### webpack-html plugin
 Para crearnos un html por defecto. 
@@ -91,15 +93,15 @@ const HtmlWebpackPlugin = require("html-webpack-plugin")
 
 Y esto nos genera el html para devolver la respuesta
 
-### webpack-dev-server
+## Development server
 
-Para gener un servidor de desarrollo 
+Right now we can build our application with webpack but when we are developing we need to try our new code in a simple and quick way. To accomplish that  we need to install a development server. We need to install the next package
 
 ```bash
 npm install webpack-dev-server --save-dev
 ```
 
-despues configuramos el script en *package.json* y podemos ejecutar el servidor de desarrollo
+After the installation we need to add a new development script, in the *package.json* file. 
 
 ```json
 {
@@ -111,14 +113,17 @@ despues configuramos el script en *package.json* y podemos ejecutar el servidor 
 }
 ```
 
-Ejecutar: 
+Right now we can execute  the following command
 
 ```bash
 npm run dev
 ```
 
+This development server automatically runs the build command when detect a change saved in any file. Also it publish the application like a web server. 
 
-### Instalación react react-dom
+## Installing React
+
+To use react we need to install two packages, the react core and the react DOM. We can execute the next command
 
 ```bash
 npm install react react-dom
