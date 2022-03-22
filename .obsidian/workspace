@@ -7,8 +7,12 @@
         "id": "fd34ccf409e195d9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programacion/JS/React/react instalacion paso a paso.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programacion/JS/React/react instalacion paso a paso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +97,7 @@
   },
   "active": "fd34ccf409e195d9",
   "lastOpenFiles": [
+    "Programacion/JS/React/react instalacion paso a paso.md",
     "Programacion/java/intro/Compiling packages java.md",
     "Programacion/java/intro/Compiling multiple files java.md",
     "().md",
@@ -99,7 +105,6 @@
     "Programacion/Coloud2/Cloud intro 2.md",
     "Programacion/Cloud/Introduccion cloud.md",
     "Programacion/Cloud/Kubernetes.md",
-    "Programacion/JS/React/react instalacion paso a paso.md",
     "Programacion/JS/React/Introduccion react.md",
     "Programacion/JS/React/React Icons.md"
   ]
