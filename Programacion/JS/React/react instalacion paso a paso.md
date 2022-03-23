@@ -1,5 +1,5 @@
 
-in this post, we are going to initiate a new react project step-by-step. The goal is to understand which dependencies we need and how they work together in the react world. 
+in this post, we are going to create a new react project step-by-step. The goal is to understand which dependencies we need and how they work together in the react world. 
 
 ## Dependencies 
 
