@@ -48,7 +48,7 @@ To compile the project, is important to pay attention to the next things
 * To use the *javac* command you need to be in the source code folder, in these example we need to be inside the *src* folder because all the packages does not include the src in their definition. 
 * You can not compile verifing recuersive all the folders, you need to compile each folders files. 
 
-we can execute the Java compiler with the next command in bash.
+we can execute the Java compiler with the next commands in bash.
 
 
 ```bash
@@ -64,39 +64,74 @@ Or we can execute all in the same line
 
 ```bash
 cd src
-javac -d ../build org/ipc1/tlotr/*.java org/ipc1/tlotr/util/*.java org/ipc1/tlotr/characters/*.java org/ipc1/tlotr/characters/beasts/*.java org/ipc1/tlotr/characters/heroes/*.java
+javac -d ../build org/ipc1/tlotr/*.java org/ipc1/tlotr/util/*.java org/ipc1/tlotr/character/*.java org/ipc1/tlotr/character/beasts/*.java org/ipc1/tlotr/character/heroes/*.java
 ```
 
 * **javac** is the java compiler
 * **-d** argument tells the compiler where the compile files should be saved. In this case **./build** is the route.
-* **src/HelloWorld.java src/Main.java** tells the compiler which files should compile
-
-Another variant to the command before could be
-
-```bash
-javac -d ./build src/*.java
-```
-
-The only change is how we specify the files to compile 
-
-* **src/\*.java**  specifies that we want to compile all the java files. For that we use the wild card **\***.  
+* **src/ipc1/tlotr/...** tells the compiler which packages it have to compile. Is important to add each package (folder). It is not recursive. 
+* **../*.java**  specifies that we want to compile all the java files inside a directory. For that we use the wild card **\***.  
 
 ## The output of the compile
 
-Now we can see that the compiler creates files in the *src* folder with the *.class* extension.
+Now we can see that the compiler creates all the compiled files (bytecode) inside the build folder. Notice that the compiler creates the same structure that is defined in the src.  The next image only presents the build folder, the other files and folders does not change.
 
-![tree 3](./treeMultipleFiles3.png)
+![root projecto tlofr](./compilingPackages3.png)
 
 ## Executing our project
-To execute our project, we must type in our terminal the next command: 
+To execute our project we must be in the project's root directory. We must type in our terminal the next command: 
 
 ```bash
-java -cp ./build Main
+java -cp ./build org.ipc1.tlotr.Main
 ```
 
 * **java** basically starts an application by starting the Java virtual machine. 
 * **-cp** specifies the directory where our compiled files are. In this case we have the *build* folder for that. Thats the reason for write **./build**
-* **Main** in this case, Main is the name for the class that has the entry point. In java the entry point is the method *public static void main(String[] args)*
+* **org.ipc1.tlotr.Main** in this case, we specify the package and the entry point that is ubicated in the Main file. 
 
-![tree 4](./treeMultipleFiles4.png)
+![root projecto tlofr](./compilingPackages4.png)
 
+## Creating a Jar file
+
+Inside the project's root directory we are goint to create a dist folder to save the jar file 
+```bash
+mkdir dist
+```
+
+Now we have to move into the build folder, the directory where we have the .class files (bytecode).  Inside that directory we are goint to create a manifest.txt file. This file should have the next text inside 
+
+```text
+Main-Class: org.ipc1.tlotr.Main
+```
+
+The main class indicates the entry point of this project. Now we can create the jar file, we should execute the next command:
+
+```bash
+jar cvfm ../dist/tlotr.jar manifest.txt org/ipc1/tlotr/*.class org/ipc1/tlotr/util/*.class org/ipc1/tlotr/character/*.class org/ipc1/tlotr/character/beasts/*.class org/ipc1/tlotr/character/heroes/*.class
+```
+
+* **jar** the jar command creates a new compress file for classes and other resources. 
+* **cvfm** it refers to **C** --> create, **v** --> verbose, **f** --> to specify the filename, **m** --> to indicate that the jar file has a manifest file. 
+* **manifest.txt** indicates the name and ubication of the manifest txt
+* **org/ipc1/tlotr/ .../** especifies all the packages and resources that we need to add in the jar file. Is important to notices that this command is not recursive
+
+The output should looks like 
+
+![root projecto tlofr](./compilingPackages5.png)
+And the directory of the build and dist folder looks like this
+
+![root projecto tlofr](./compilingPackages6.png)
+## Executing the JAR
+
+To execute the jar file we need to run the next command
+```bash
+java -jar dist/tlotr.jar
+```
+
+And the project is working
+
+![root projecto tlofr](./compilingPackages7.png)
+
+Now you can enjoy the game
+
+![root projecto tlofr](./compilingPackages8.png)
