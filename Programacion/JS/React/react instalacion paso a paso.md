@@ -239,14 +239,21 @@ Running our app on our development server, the result should look like
 
 ![react tree directory](./img/react-from-scratch-05.png)
 
-### React linter
-Viene con reglas especificas para javascript tanto como para react
+
+
+
+
+
+
+## React linter
+We already have a project working with react, but it is a good practice to use good practicies to write our code, to achieve that we can use "React linter¨, this package comes with specifics rules for javascript and react, to install the package you should execute the next command in your terminal
 
 ```bash 
 npm install standard --save-dev
 ```
 
-Añadimos un script al *package.json*
+Once the package was installed, we should add the "lint" script in our "package.json"
+
 
 ```json
 {
@@ -259,19 +266,52 @@ Añadimos un script al *package.json*
 }
 ```
 
-Ahora debemos ignorar algunos ficheros para no tener problemas con errores que no queremos manejar 
+
+Right now we have to ignore the "dist" folder because we do not care about the "lint" in the output file, to achieve that we are going to add a "standar" configuration into the "package.json" file.
 
 ```json
 {
-  "standard":{
-    "ignore": [
-      "/api/**"
-    ]
-  }
+	"scripts": {
+	    "test": "echo \"Error: no test specified\" && exit 1",
+	    "build": "webpack",
+	    "dev": "webpack-dev-server",
+	    "lint": "standard"
+	  },
+	  "standard": {
+	    "ignore": [
+	      "/dist/**"
+	    ]
+	  },
 }
 ```
 
+Now we can execute the command:
+
+```bash
+npm run lint
+```
+
+And the output show us all the styling rules that we are doing wrong
+
+![react tree directory](./img/react-from-scratch-06.png)
+
+If you want to standar try to fix some of the warnings you can run
+
+```bash 
+npx standard --fix
+```
+
+Now if you fix all the warnings you have a code with a good styling practices
+
+![react tree directory](./img/react-from-scratch-07.png)
+
+## Integrating linter to our 
+
+It works but we want our edittor takes care of showing us the warnings, to accomplish th
 Conectar lint con nuestro editor en el package.json
+
+
+
 
 ### Creando el App de nuestra aplicación 
 
