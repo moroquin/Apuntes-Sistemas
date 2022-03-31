@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/JS/React/react instalacion paso a paso.md",
+            "file": "Programacion/JS/React/React redux.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/JS/React/react instalacion paso a paso.md",
+                "file": "Programacion/JS/React/React redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "fd34ccf409e195d9",
   "lastOpenFiles": [
+    "Programacion/JS/React/React redux.md",
     "Programacion/JS/React/react instalacion paso a paso.md",
     "Programacion/JS/React/Introduccion react.md",
     "Programacion/java/intro/Compiling packages java.md",
@@ -105,7 +106,6 @@
     "Programacion/java/intro/Compiling single file java.md",
     "Programacion/Coloud2/Cloud intro 2.md",
     "Programacion/Cloud/Introduccion cloud.md",
-    "Programacion/Cloud/Kubernetes.md",
-    "Programacion/JS/React/React Icons.md"
+    "Programacion/Cloud/Kubernetes.md"
   ]
 }
