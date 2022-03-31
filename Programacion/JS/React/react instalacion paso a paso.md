@@ -241,18 +241,45 @@ Running our app on our development server, the result should look like
 
 
 
+## Creating "App" component
+
+Now we have to create our "App" component that we are going to use as our entry point. For that, we can create an "App.js" file inside the src folder and write react code to use it as a functional component.
+
+
+```javascript
+import React from 'react'
+export default function App () {
+  return (
+    <h1>Hello world from App component</h1>
+  )
+}
+```
+
+When we have a component, we can use it in our "index.js".
+
+```javascript 
+const React = require('react')
+const reactDom = require('react-dom')
+const { App } = require('./App')
+reactDom.render(App, document.getElementById('app'))
+
+``` 
+
+Now we can check the page again.
+
+![react tree directory](./img/react-from-scratch-10.png)
 
 
 
 
-## React linter
-We already have a project working with react, but it is a good practice to use good practicies to write our code, to achieve that we can use "React linter¨, this package comes with specifics rules for javascript and react, to install the package you should execute the next command in your terminal
+## Stylling our code
+We already have a project working with React. But if we are working with more people, it is important that our code be easy to read. Because of that, we need to use "standard" because this package comes with specific rules for javascript and react. To install the package, you should execute the next command in your terminal.
 
 ```bash 
 npm install standard --save-dev
 ```
 
-Once the package was installed, we should add the "lint" script in our "package.json"
+Once the package is installed, we should add the "lint" script to our "package.json".
 
 
 ```json
@@ -267,7 +294,7 @@ Once the package was installed, we should add the "lint" script in our "package.
 ```
 
 
-Right now we have to ignore the "dist" folder because we do not care about the "lint" in the output file, to achieve that we are going to add a "standar" configuration into the "package.json" file.
+Right now, we have to ignore the "dist" folder because we do not care about the "lint" in the output file. To achieve that, we are going to add a "standard" configuration into the "package.json" file.
 
 ```json
 {
@@ -291,66 +318,101 @@ Now we can execute the command:
 npm run lint
 ```
 
-And the output show us all the styling rules that we are doing wrong
+And the output shows us all the styling rules that we are doing wrong,
 
 ![react tree directory](./img/react-from-scratch-06.png)
 
-If you want to standar try to fix some of the warnings you can run
+If you want to try to fix some of the warnings, you can run
 
 ```bash 
 npx standard --fix
 ```
 
-Now if you fix all the warnings you have a code with a good styling practices
+Now, if you fix all the warnings, you have a code with good styling practices.
 
 ![react tree directory](./img/react-from-scratch-07.png)
 
-## Integrating linter to our 
+## Styling Guidelines with Our Editor
 
-It works but we want our edittor takes care of showing us the warnings, to accomplish th
-Conectar lint con nuestro editor en el package.json
+I use VisualStudio Code, which has a plugin that can help you integrate lint and the configuration into your actual project. You have to install:
+![react tree directory](./img/react-from-scratch-08.png)
 
+With that, you have the code editor checking the rules for your code. If you want to "esLint" try to format your code every time you save your file, you can go to Settins and enable the next option.
 
+![react tree directory](./img/react-from-scratch-09.png)
 
+Now you have "VisualStudio Code" to show all the styling warnings.
 
-### Creando el App de nuestra aplicación 
+![react tree directory](./img/react-from-scratch-11.png)
 
-Es una buena práctica crear un componente App para el entry point, primero creamos nuestro componente App.js. Podemos crearlo como un componente funcional: 
+## Configuration Files
 
-```javascript
-import React from 'react'
+"./package.json"
 
-export default function App () {
-  return (
-    <h1>hola mundo</h1>
-  )
+```json
+{
+  "name": "fromscratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack-dev-server",
+    "lint": "standard"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.4",
+    "html-webpack-plugin": "^5.5.0",
+    "standard": "^16.0.4",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "standard": {
+    "ignore": [
+      "/dist/**"
+    ]
+  },
+  "eslintConfig":{
+    "extends": ["./node_modules/standard/eslintrc.json"]
+  }
 }
 ```
 
-Una vez creado en nuestro index.js lo llamamos como un componente:
+"./webpack.config.js"
 
-```javascript 
-const React = require('react')
-const reactDom = require('react-dom')
-const { App } = require('./App')
+```javascript
+const HtmlWebpackPlugin = require('html-webpack-plugin')
 
-reactDom.render(App, document.getElementById('app'))
+module.exports = {
+  mode: 'development',
+  output: {
+    filename: 'app.bundle.js'
+  },
+  plugins: [
+    new HtmlWebpackPlugin({
+      template: 'src/index.html'
+    })
+  ],
+  module: { rules: [{ test: /\.js$/, exclude: /node_modules/, use: { loader: 'babel-loader', options: { presets: ['@babel/preset-env', '@babel/preset-react'] } } }] }
+}
 
-``` 
+```
 
-### Componentes
-para los componentes es buena práctica crear dentro de src una carpeta llamada components, y dentro crear carpetas para señalar el tipo de categoría. 
-
+Our project structure should look like this:
 
 
-
-
-
-
-
-
-
-
+![react tree directory](./img/react-from-scratch-12.png)
 
 
 
