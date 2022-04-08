@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/java/Test/Intro Test java.md",
+            "file": "Programacion/JS/React/Styling css react.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/java/Test/Intro Test java.md",
+                "file": "Programacion/JS/React/Styling css react.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "fd34ccf409e195d9",
   "lastOpenFiles": [
+    "Programacion/JS/React/Styling css react.md",
+    "Programacion/Web/CSS/Cascading style sheets & specificity.md",
+    "Programacion/Web/CSS/Combinators css.md",
+    "Programacion/Web/CSS/css check support.md",
+    "Programacion/Web/CSS/CSS intro.md",
+    "Programacion/Web/CSS/Propiedades importantes CSS.md",
     "Programacion/java/Test/Intro Test java.md",
     "Programacion/java/intro/Compiling multiple files java.md",
     "Programacion/JS/React/React router.md",
-    "Programacion/JS/React/React redux.md",
-    "Programacion/JS/React/react instalacion paso a paso.md",
-    "Programacion/JS/React/Introduccion react.md",
-    "Programacion/java/intro/Compiling packages java.md",
-    "().md",
-    "Programacion/java/intro/Compiling single file java.md",
-    "Programacion/Coloud2/Cloud intro 2.md"
+    "Programacion/JS/React/React redux.md"
   ]
 }
