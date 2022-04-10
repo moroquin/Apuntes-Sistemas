@@ -1,22 +1,22 @@
 ## Styled Components
+Styled components enable the creation of React components with CSS styling. The styled components are intended to assist developers with:
 
-Styled components allow to create React components with the css styling. The styled components aims to help the developers with: 
 
-* Generating unique class names for the styles that we use, basically create a component that we can use. Reduces the bugs that causes using class names. 
-* Simplified the maintainence of the styling code, easier to modify or deleting css. 
-* Autmatically manage the code splitting, getting better experience for the users at the moment of loading our application. 
-* This aproach makes sure that you dont have trouble with css collitions if you define styles differents in diferents components. 
+* Creating unique class names for the styles we use is essentially the same as creating a component that we can use. Reduces the number of bugs caused by the use of class names.
+* Simplified the maintenance of the styling code, making it easier to change or delete CSS.
+* Automatically manage code splitting, resulting in a better user experience when our application is loaded.
+* This method ensures that you will not have problems with CSS collitions if you define different styles in different components.
 
-To install Styled Components you should install the following packages
+Styled Components requires the installation of the following packages.
 
 ```bash
 npm install styled-components --save
 ```
 
 
-It's important to appoint that is a production dependency. In the next example 
+It is critical to appoint this package is a production dependency. In the following example,
 
-In this case we are goint to use the Name.js component. This component should look like this: 
+In this case, we'll be utilizing the Name.js component. This component should appear as follows:
 
 ```javascript 
 import React from 'react'
@@ -39,7 +39,7 @@ export const Name = () => {
 
 ```
 
-And our styled component should looks like:
+And our styled component should appear as follows:
 
  ```javascript
 import styledComponents from 'styled-components'
@@ -69,47 +69,45 @@ export const Submit = styledComponents.input`
 
 
 ### Conclusion about Styled components
-If we create the run build of the project with 
+
+If we create the project's run build with
 
 ```bash
 npm run build
 ```
 
-In the styled components is important to be aware that the css is not longer use, so the css style is included into the javascript file. We can se the 'main.js' file, and take a look
+It is important to note that the css style is no longer used in the styled components, so the css style is included in the javascript file. We can see the'main.js' file and examine it.
 
 ![prev](./img/React-css-04.png)
 
-Now pay attention to '\\n' simbols. It has all the indentation that we use before.  And remember that when we create a built we expect that the failes will be optimized and minimal. 
+Pay attention to the 'n' symbols now. It has all of the indentation that we used previously. And keep in mind that when we build something, we expect the output files to be optimized and minimal.
 
-The points of this approach could be
+The advantages of this approach could be as follows:
 
-* We create new components with the styled-components and we are using into our custom components. 
-* In other hand our components are easier to read and easier to mantein. 
-* The files are not optimized, because it has white spaces and symbols that the file does not needed. 
-
+* We use styled-components to create new components, which we then use in our custom components.
+* Our components, on the other hand, are easier to read and maintain.
+* The files are not optimized because they contain white spaces and symbols that are not required by the file.
 
 
 
 ## module.css versus Styled components 
 
-To have some conclusions, I build the project using styled components and module css and the output is 
+To draw some conclusions, I constructed the project with styled components and module CSS, and the result is
 
 ![prev](./img/React-css-10.png)
 
 
-The left image has the 'module.css' and the right image is 'styled components'
+The left image shows'module.css,' while the right image shows'styled components.'
 
-It is important to point that when I create the project with the 'npx create-react-app' it creates a css global file and i do not delete. That is the reason why the styled component project has a css minimal file. 
+It is important to note that when I create the project with the 'npx create-react-app' command, it generates a css global file that I do not delete. That is why the styled component project includes a css minimal file.
 
-Now my perspective is
-* Comparing the Javascript files, the 'module.css' has lower size, thinking in the time of loading page the 'styled components' is slower. 
-* The styiles from the 'modules.css' is optimized and minimal. The styles from 'styled components' that is included in the main javascript is not optimized and minimal. So with the 'styled components' the page load slower than 'module.css'. 
-* The 'styled.components' is easier to mantain and it prevents to have bugs because the names of the classes in compare to 'module.css'. 
+My current point of view is
 
-So, I preferred to use 'module.css'. If you want to comment what approach you prefer and comment why, it would be great. 
+* When comparing Javascript files, the'module.css' is smaller, despite the fact that the'styled components' is slower to load.
+* The styles in'modules.css' are optimized and minimal. The styles from the'styled components' included in the main javascript are not optimized or minimal. As a result, the page loads slower with'styled components' than with'module.css'.
+* In comparison to'module.css,"styled.components' is easier to maintain and prevents bugs due to the names of the classes.
 
-I hope this post help you to understand better the styling your applications. 
+As a result, I preferred to use'module.css'. It would be great if you could comment on which approach you prefer and why.
 
-
-
+I hope this post has helped you better understand how to style your applications.
 
