@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/JS/React/React css.md",
+            "file": "Programacion/JS/React/React redux slices.md",
             "mode": "preview",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 564
+    "width": 228
   },
   "right": {
     "id": "6c2d1077fd044c42",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/JS/React/React css.md",
+                "file": "Programacion/JS/React/React redux slices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "fd34ccf409e195d9",
   "lastOpenFiles": [
+    "Programacion/JS/React/React redux slices.md",
+    "Untitled 2.md",
     "Programacion/JS/React/React css.md",
     "Programacion/JS/React/React css styled components.md",
     "Programacion/JS/React/React Icons.md",
@@ -104,8 +106,6 @@
     "Programacion/JS/React/React redux.md",
     "Programacion/JS/React/React router.md",
     "Programacion/JS/React/Styling css react.md",
-    "Programacion/JS/React/Introduccion react.md",
-    "Programacion/Web/CSS/Cascading style sheets & specificity.md",
-    "Programacion/Web/CSS/Combinators css.md"
+    "Programacion/JS/React/Introduccion react.md"
   ]
 }
