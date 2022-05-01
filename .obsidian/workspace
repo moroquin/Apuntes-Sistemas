@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/JS/React/React redux slices.md",
-            "mode": "preview",
+            "file": "Programacion/JS/React/react tests.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228
+    "width": 418
   },
   "right": {
     "id": "6c2d1077fd044c42",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/JS/React/React redux slices.md",
+                "file": "Programacion/JS/React/react tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "fd34ccf409e195d9",
   "lastOpenFiles": [
-    "Programacion/JS/React/React redux slices.md",
-    "Untitled 2.md",
-    "Programacion/JS/React/React css.md",
-    "Programacion/JS/React/React css styled components.md",
-    "Programacion/JS/React/React Icons.md",
-    "Programacion/JS/React/react instalacion paso a paso.md",
-    "Programacion/JS/React/React redux.md",
-    "Programacion/JS/React/React router.md",
-    "Programacion/JS/React/Styling css react.md",
-    "Programacion/JS/React/Introduccion react.md"
+    "Programacion/JS/React/react tests.md",
+    "Proyectos/Agile/Scrum/Roles/Product Owner.md",
+    "Programacion/JS/React/Hooks/rulesofhooks.png",
+    "Programacion/JS/React/Hooks/React useCallBack.md",
+    "Programacion/Web/CSS/Layout/positioning css.md",
+    "Programacion/Web/CSS/Cascading style sheets & specificity.md",
+    "Proyectos/Agile/Scrum/Principios scrum.md",
+    "Proyectos/Agile/Agile.md",
+    "Proyectos/Casos de Uso/Epicas.md",
+    "Proyectos/Agile/Scrum/Metricas/progresoscrum-release-burndown.jpeg"
   ]
 }
