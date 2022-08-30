@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programacion/JS/React/react tests.md",
+            "file": "Proyectos/Agile/Manifiesto Ágil.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programacion/JS/React/react tests.md",
+                "file": "Proyectos/Agile/Manifiesto Ágil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "fd34ccf409e195d9",
   "lastOpenFiles": [
+    "Proyectos/Agile/Manifiesto Ágil.md",
     "Programacion/JS/React/react tests.md",
     "Proyectos/Agile/Scrum/Roles/Product Owner.md",
     "Programacion/JS/React/Hooks/rulesofhooks.png",
@@ -105,7 +106,6 @@
     "Programacion/Web/CSS/Cascading style sheets & specificity.md",
     "Proyectos/Agile/Scrum/Principios scrum.md",
     "Proyectos/Agile/Agile.md",
-    "Proyectos/Casos de Uso/Epicas.md",
-    "Proyectos/Agile/Scrum/Metricas/progresoscrum-release-burndown.jpeg"
+    "Proyectos/Casos de Uso/Epicas.md"
   ]
 }
